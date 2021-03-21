@@ -11,13 +11,13 @@
 While using the Tableau tool, I was able to produce varying perspectives on the data provided. Some information captured from the images below will show you Males are the predomnent user of bicycles, and are heavily utilized during the hours of of 0600-0900 and 1600-1900. 
 
 The image below shows the checkout times by Gender
-###### ![District Affected](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/District%20Affected.png)
+###### ![Image2](https://github.com/raineytracyn/bikeshareing/blob/main/Images/Image2.png)
 
 The image below Trips by Weekday for each hour.
-###### ![District Affected](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/District%20Affected.png)
+###### ![Image3](https://github.com/raineytracyn/bikeshareing/blob/main/Images/Image3.png)
 
 The image below Trips by Weekday for each hour for Male and Females
-###### ![District Affected](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/District%20Affected.png)
+###### ![Image4](https://github.com/raineytracyn/bikeshareing/blob/main/Images/Image4.png)
 
 # With this information, you can not only suceed in a bike sharing company, but you can expand the business into hydration centers since there is a faily large portion of the elderly community that bike.
 
